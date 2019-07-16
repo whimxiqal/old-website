@@ -535,13 +535,13 @@ b i:last-child {
 .box-words-wrapper {
     display: inline-block;
     position: relative;
-    text-align: center
 }
 
 .box-words-wrapper b {
     display: inline-block;
     position: absolute;
     white-space: nowrap;
+    text-align: center
     left: 0;
     top: 0;
 }
