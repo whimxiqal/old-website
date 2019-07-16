@@ -535,6 +535,7 @@ b i:last-child {
 .box-words-wrapper {
     display: inline-block;
     position: relative;
+    text-align: center
 }
 
 .box-words-wrapper b {
