@@ -891,8 +891,8 @@ footer img {
 .top-bar {
     color: #333;
     padding: 0px 0 0px;
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/erfert_skyline.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/erfert_skyline.jpg);
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/erfert_skyline.JPG);
+    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/erfert_skyline.JPG);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
