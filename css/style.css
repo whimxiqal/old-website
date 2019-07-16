@@ -538,7 +538,6 @@ b i:last-child {
 }
 
 .box-words-wrapper b {
-    text-align: center
     display: inline-block;
     position: absolute;
     white-space: nowrap;
