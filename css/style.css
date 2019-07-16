@@ -538,10 +538,11 @@ b i:last-child {
 }
 
 .box-words-wrapper b {
-    display: inline-block;
-    /*position: absolute; */
-    white-space: nowrap;
     text-align: center
+
+    /*display: inline-block;*/
+    position: absolute;
+    white-space: nowrap;
     left: 0;
     top: 0;
 }
