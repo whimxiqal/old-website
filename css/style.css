@@ -45,8 +45,12 @@ body {
     padding-right: 0;
 }
 
-.icon-width {
+.icon {
     width: 400px;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(0, -50%)
 }
 
 .main-container {
