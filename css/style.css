@@ -780,6 +780,9 @@ b i:last-child {
 
 .portfolio_item .icon {
     width: 100px;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, 0);
 }
 
 .portfolio_item:hover .portfolio_item_hover {
