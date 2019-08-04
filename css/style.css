@@ -45,10 +45,6 @@ body {
     padding-right: 0;
 }
 
-.icon {
-    width: 400px;
-}
-
 .main-container {
     padding: 100px 0;
 }
@@ -780,6 +776,10 @@ b i:last-child {
     opacity: 0;
     font-size: 10px;
     letter-spacing: 2px;
+}
+
+.portfolio_item .icon {
+    width: 100px;
 }
 
 .portfolio_item:hover .portfolio_item_hover {
