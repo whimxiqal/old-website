@@ -37,7 +37,7 @@ body {
     height: 100%;
     font-family: 'Poppins', sans-serif;
     line-height: 1.8;
-    color: #999
+    color: rgba(0, 0, 0, 1);
 }
 
 .no-padding {
@@ -80,7 +80,7 @@ a {
 ==================================================*/
 
 h1 {
-    color: #393939;
+    color: rgba(255, 0, 0, 1);
     font-size: 60px;
     text-transform: uppercase;
 }
@@ -421,6 +421,7 @@ h5 {
     display: table;
     height: 100vh;
     width: 100%;
+
 }
 
 .box-intro .table-cell {
@@ -440,7 +441,7 @@ b i:last-child {
 .box-intro h5 {
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: #999;
+    color: rgba(0, 0, 0, 1);
     line-height: 1.7
 }
 
@@ -538,6 +539,7 @@ b i:last-child {
     white-space: nowrap;
     left: 0;
     top: 0;
+
 }
 
 .box-words-wrapper b.is-visible {
@@ -726,7 +728,6 @@ b i:last-child {
 
 .portfolio_item .portfolio_item_hover {
     position: absolute;
-    margin: 0;
     top: 0%;
     left: 25%;
     height: 100%;
@@ -894,8 +895,8 @@ footer img {
 .top-bar {
     color: #333;
     padding: 300px 0px;
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .6), rgba(255, 255, 255, .6)), url(../img/erfert_skyline.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .6), rgba(255, 255, 255, .6)), url(../img/erfert_skyline.jpg);
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .6), rgba(255, 255, 255, .8)), url(../img/erfert_skyline.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .6), rgba(255, 255, 255, .8)), url(../img/erfert_skyline.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -906,7 +907,7 @@ footer img {
     font-size: 60px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #999;
+    color: rgba(100, 100, 255, 1);
     line-height: 50px;
 }
 
