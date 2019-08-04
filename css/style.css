@@ -726,13 +726,14 @@ b i:last-child {
 
 .portfolio_item .portfolio_item_hover {
     position: absolute;
-    top: 0px;
-    left: 0px;
+    margin: 0;
+    top: 0%;
+    left: 25%;
     height: 100%;
-    width: 100%;
+    width: 50%;
+    -webkit-transform: translate(100%);
+    transform: translate(100%);
     background-color: rgba(0, 0, 0, .8);
-    -webkit-transform: translate(-100%);
-    transform: translate(-100%);
     opacity: 0;
     -webkit-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -778,9 +779,10 @@ b i:last-child {
     letter-spacing: 2px;
 }
 
-.portfolio_item .icon {
-    position: absolute;
-    height: 50%;
+.portfolio_item img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 50%;
 }
 
