@@ -45,11 +45,6 @@ body {
     padding-right: 0;
 }
 
-.no-padding [class^="col-"] {
-    padding-left: 0;
-    padding-right: 0;
-}
-
 .icon-padding {
     padding-left: 256;
     padding-right:256;
