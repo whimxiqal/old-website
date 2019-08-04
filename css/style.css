@@ -50,6 +50,11 @@ body {
     padding-right: 0;
 }
 
+.icon-padding {
+    padding-left: 256;
+    padding-right:256;
+}
+
 .main-container {
     padding: 100px 0;
 }
