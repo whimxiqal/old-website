@@ -782,11 +782,6 @@ b i:last-child {
     position: absolute;
     height: 50%;
     width: 50%;
-    top: 50%;
-    left: 50%;
-    background-color: rgba(0, 0, 0, .8);
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
 }
 
 .portfolio_item:hover .portfolio_item_hover {
