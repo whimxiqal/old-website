@@ -47,9 +47,6 @@ body {
 
 .icon {
     width: 400px;
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, 0)
 }
 
 .main-container {
