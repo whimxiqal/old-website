@@ -46,8 +46,8 @@ body {
 }
 
 .icon-padding {
-    padding-left: 256;
-    padding-right:256;
+    padding-left: 512;
+    padding-right: 512;
 }
 
 .main-container {
